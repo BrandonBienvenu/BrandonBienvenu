@@ -21,7 +21,7 @@ Systèmes : Linux (Ubuntu Server), Windows Server
 
 Virtualisation : VirtualBox, VMware
 
-Scripting / Dev : Bash, Go
+Scripting / Dev : Bash
 
 Réseau : SSH, DNS, DHCP, VPN, HTTPS
 
