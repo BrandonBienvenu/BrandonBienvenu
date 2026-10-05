@@ -1,7 +1,7 @@
 ## 👋 Moi / About Me
 🇫🇷 Français
 
-Brandon, 16 ans, étudiant en BAC PRO CIEL au Lycée Georges Brière, passionné par Linux, serveurs et cybersécurité. Je veux comprendre les systèmes en profondeur et les appliquer comme en environnement professionnel.
+Brandon, 17 ans, étudiant en BAC PRO CIEL au Lycée Georges Brière, passionné par Linux, serveurs et cybersécurité. Je veux comprendre les systèmes en profondeur et les appliquer comme en environnement professionnel.
 
 ## 🚀 Ce que je fais actuellement
 
